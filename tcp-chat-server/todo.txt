@@ -1,0 +1,5 @@
+later
+implement chat logs
+implement cli
+remove uname clones ?
+use struct for user:msg
